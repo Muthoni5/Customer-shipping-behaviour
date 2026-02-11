@@ -51,7 +51,7 @@ Strategic Value:
 2. Supports performance benchmarking
 3. Serves as a KPI reference point for executive review
 
-   2.Revenue by Product Category ![revenue & Strategy dasboard](images/Total%20revenue%20by%20category%201.4.png)
+   2. Revenue by Product Category ![revenue & Strategy dasboard](images/Total%20revenue%20by%20category%201.4.png)
 
 
 Business Question:
