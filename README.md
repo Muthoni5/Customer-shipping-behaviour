@@ -6,13 +6,13 @@ The goal of this analysis is not only to demonstrate technical competency in dat
 Rather than creating disconnected visuals, the analysis is structured around business questions, ensuring every visual contributes to a coherent narrative and supports data-driven decision-making.
 
 # Data Description
--The dataset includes the following key dimensions:
--Customer Information: Age, Gender, Location
--Product Details: Item Purchased, Category, Size, Color, Season
--Financial Metrics: Purchase Amount (USD), Discounts, Promo Code Usage
--Behavioral Indicators: Subscription Status, Previous Purchases, Frequency of Purchases
--Operational Factors: Shipping Type, Payment Method
--Customer Feedback: Review Rating
+- The dataset includes the following key dimensions:
+- Customer Information: Age, Gender, Location
+- Product Details: Item Purchased, Category, Size, Color, Season
+- Financial Metrics: Purchase Amount (USD), Discounts, Promo Code Usage
+- Behavioral Indicators: Subscription Status, Previous Purchases, Frequency of Purchases
+- Operational Factors: Shipping Type, Payment Method
+- Customer Feedback: Review Rating
 All data was imported from Excel, cleaned, and prepared for analysis before being modeled for reporting.
 
 # Analytical Scopes
