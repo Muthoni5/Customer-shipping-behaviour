@@ -99,7 +99,7 @@ The focus is to answer:
 
 5. How does logistics configuration influence average revenue?
 
-**  1.Customer Count by Location** ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
+1.Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
  Business Question: Where are our customers concentrated geographically?
 
  What the Visual Shows: A distribution of total customers across different locations.
@@ -113,7 +113,7 @@ The focus is to answer:
 
 Strategic Insight Angle - If 60%+ of customers are concentrated in a few locations, localized fulfillment centers could reduce shipping costs and delivery time.
 
-**2.Shipping Type Distribution** ![revenue & Strategy dasboard](images/shipping%20type%20filter%201.2.png)
+2.Shipping Type Distribution ![revenue & Strategy dasboard](images/shipping%20type%20filter%201.2.png)
 
  Business Question - Which shipping methods are most used?
 
@@ -128,7 +128,7 @@ Strategic Insight Angle - If 60%+ of customers are concentrated in a few locatio
   
 Operational Insight- If express shipping is high but average revenue is low, margins may be under pressure.
 
-** 3.Shipping Type + Average Revenue** ![revenue & Strategy dasboard](images/shipping%20type%201.2.png)
+ 3.Shipping Type + Average Revenue ![revenue & Strategy dasboard](images/shipping%20type%201.2.png)
  
   Business Question - Does shipping type influence customer spending?
 
@@ -141,7 +141,7 @@ Operational Insight- If express shipping is high but average revenue is low, mar
 
 Analytical Angle - If express customers spend significantly more, premium delivery can be positioned as a value-added service.
 
-**4.Total Revenue per Season** ![revenue & Strategy dasboard](images/Total%20revenue%20by%20season%201.4.png)
+4.Total Revenue per Season ![revenue & Strategy dasboard](images/Total%20revenue%20by%20season%201.4.png)
  
 Business Question - Are there seasonal revenue trends affecting operations?
 
