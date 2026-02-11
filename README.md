@@ -31,4 +31,31 @@ The visuals in this section are designed to support:
 3.Customer segmentation and retention strategies
 All insights presented here are derived using a combination of SQL for data exploration and DAX measures for dynamic calculations, ensuring accuracy, scalability, and analytical depth.
 
-# Revenue & Strategy Analysis
+# Revenue & Strategy Analysis ![revenue & Strategy dasboard](images/revenue%20%26%20startegy%201.1.png)
+This section evaluates revenue performance drivers and strategic levers that influence financial outcomes. Each visual is aligned to a specific business question and supports data-driven decision-making.
+1. Total Revenue Overview 
+
+Business Question:
+What is the overall revenue performance of the business?
+
+Visual Purpose:
+Provides a high-level summary of total revenue generated within the dataset period.
+
+Why It Matters:
+This acts as the financial baseline. All strategic discussions—growth, segmentation, discount impact—are anchored to total revenue.
+
+Strategic Value:
+
+Establishes revenue scale
+
+Supports performance benchmarking
+
+Serves as a KPI reference point for executive review
+
+
+
+
+
+
+
+
