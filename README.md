@@ -45,9 +45,10 @@ Why It Matters:
 This acts as the financial baseline. All strategic discussions—growth, segmentation, discount impact—are anchored to total revenue.
 
 Strategic Value:
-1.Establishes revenue scale
-2.Supports performance benchmarking
-3.Serves as a KPI reference point for executive review
+
+1. Establishes revenue scale
+2. Supports performance benchmarking
+3. Serves as a KPI reference point for executive review
 
 
 
