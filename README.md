@@ -33,6 +33,7 @@ All insights presented here are derived using a combination of SQL for data expl
 
 # Revenue & Strategy Analysis ![revenue & Strategy dasboard](images/revenue%20%26%20startegy%201.1.png)
 This section evaluates revenue performance drivers and strategic levers that influence financial outcomes. Each visual is aligned to a specific business question and supports data-driven decision-making.
+
 1. Total Revenue Overview ![revenue & Strategy dasboard](images/revenue%20and%20discount%201.2.png)
 
 Business Question:
@@ -50,7 +51,22 @@ Strategic Value:
 2. Supports performance benchmarking
 3. Serves as a KPI reference point for executive review
 
+2. Revenue by Product Category ![revenue & Strategy dasboard](images/Total%20revenue%20by%20category%201.4.png)
 
+
+Business Question:
+Which product categories contribute the most to revenue?
+
+Visual Purpose:
+Breaks down revenue across product categories to identify top-performing segments.
+
+Why It Matters:
+Category-level revenue helps management prioritize inventory investment, marketing focus, and expansion strategies.
+
+Strategic Value:
+1. Identifies revenue concentration risk
+2. Highlights growth opportunities
+3. Supports category-level promotional planning
 
 
 
