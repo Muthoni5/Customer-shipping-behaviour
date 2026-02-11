@@ -1,4 +1,4 @@
-# Customer shipping behaviour - Project Overview
+# Customer shipping behaviour - Project Overview 
 
 This project analyzes customer purchase behavior using transactional data sourced from Excel and modeled for analysis using SQL and DAX.
 The dataset contains 3,900 records, capturing customer demographics, purchasing patterns, product attributes, payment behavior, and engagement indicators such as subscription status and purchase frequency.
@@ -30,3 +30,5 @@ The visuals in this section are designed to support:
 2.Pricing and promotion decisions
 3.Customer segmentation and retention strategies
 All insights presented here are derived using a combination of SQL for data exploration and DAX measures for dynamic calculations, ensuring accuracy, scalability, and analytical depth.
+
+# Revenue & Strategy Analysis
