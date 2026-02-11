@@ -15,7 +15,7 @@ Rather than creating disconnected visuals, the analysis is structured around bus
 -Customer Feedback: Review Rating
 All data was imported from Excel, cleaned, and prepared for analysis before being modeled for reporting.
 
-Analytical Scopes
+# Analytical Scopes
 The analysis is organized into three core scopes to reflect how organizations typically evaluate performance:
 1. Revenue & Strategy
 2. Operational Performance
