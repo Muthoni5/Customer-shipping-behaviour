@@ -84,7 +84,7 @@ Strategic Value:
 3. Informs customer engagement investments
 
 
-Scope 2: ⚙️ Operational Performance Analysis ![revenue & Strategy dasboard](images/operational%20performance%201.1.png)
+# Scope 2: ⚙️ Operational Performance Analysis ![revenue & Strategy dasboard](images/operational%20performance%201.1.png)
 
  Scope Objective - This section evaluates operational efficiency and execution performance across logistics, geography, seasonality, and payment processing.
   
@@ -156,9 +156,87 @@ What the Visual Shows - Revenue aggregated by season.
 
 Executive Insight - Strong seasonal spikes suggest the need for flexible operational capacity planning.
 
+# Sope 3 : People & Customer Analytics  ![revenue & Strategy dasboard](images/Customer%20Analytics%201.1.png)
+ Scope Objective : This section analyzes customer demographics and behavioral patterns to understand:
+
+ - Who our customers are
+ - How frequently they purchase
+ - What drives higher spending
+ - Which segments generate the most value
+
+   The goal is to identify high-value customer segments and support targeted engagement, retention, and revenue growth strategies.
+
+ 1.Customer Count by Age  ![revenue & Strategy dasboard](images/Customer%20count%20by%20age%201.4.png)
+Business Question - What is the age distribution of our customer base?
+
+What the Visual Shows - Total number of customers grouped by age (or age band if grouped).
+
+Why It Matters: 
+
+- Identifies dominant demographic segments
+- Supports targeted marketing strategies
+- Helps tailor product positioning
+- Assists in long-term customer lifecycle planning
+
+ Strategic Insight Angle - If the majority of customers fall within a narrow age range, marketing and product development should prioritize that demographic profile.
+
+2.Average Revenue by Frequency of Purchase  ![revenue & Strategy dasboard](images/average%20revenue%20by%20frequency%20of%20purchase%201.3.png)
+Business Question - Does purchase frequency influence customer value?
+
+ What the Visual Shows - Average revenue grouped by frequency of purchases.
+
+Why It Matters:
+- Identifies high-value repeat customers
+- Highlights loyalty opportunities
+- Measures potential customer lifetime value proxy
+  
+ Strategic Insight - If higher purchase frequency correlates with higher average revenue, investment in retention programs and loyalty incentives becomes justified.
 
 
+3. Average Purchase Amount by Previous Purchases ![revenue & Strategy dasboard](images/average%20purchase%20amount%201.4.png)
+   
+ Business Question - Do customers with more historical purchases spend more per transaction?
+
+What the Visual Shows - Average purchase amount based on number of previous purchases.
+
+Why It Matters:
+
+- Measures customer maturity impact
+- Identifies whether repeat buyers increase or stabilize spending
+- Supports retention and upsell strategies
+
+Executive Insight - If average purchase value increases with previous purchases, this confirms the long-term value of customer retention strategies.
 
 
+4. Payment Method – Customer Count & Average Purchase ![revenue & Strategy dasboard](images/payment%20Method%201.2.png)
+   
+Business Question -Which payment methods are most used, and do they influence spending behavior?
+
+ What the Visual Shows:
+
+ - A table displaying:
+ - Count of customers per payment method
+ - Average purchase amount per payment method
+
+ Why It Matters:
+
+ - Identifies dominant transaction channels
+ - Reveals high-value payment segments
+ - Supports fintech and checkout optimization strategies
+
+Strategic Insight - If certain payment methods show both high usage and high average purchase amounts, partnerships or promotional efforts can be strategically aligned to those channels.
+
+
+Executive Summary
+
+This analysis examined 3,900 customer transactions to identify key revenue drivers, operational patterns, and customer behavior dynamics. Using SQL for data exploration and DAX for analytical modeling, the project delivers a structured evaluation across Revenue & Strategy, Operational Performance, and People Analytics.
+
+From a revenue perspective, performance is driven primarily by specific product categories and repeat customer behavior. Subscription status and purchase frequency show measurable influence on revenue contribution, reinforcing the importance of customer retention strategies. Promotional levers such as discounts and promo codes demonstrate varying impact, indicating that targeted deployment is more effective than broad discounting.
+
+Operationally, customer concentration by location and seasonal revenue patterns highlight the need for demand-aware logistics planning. Shipping type and payment method analysis further reveal behavioral differences that can inform checkout optimization and cost management strategies.
+
+From a customer analytics standpoint, demographic distribution and purchase history patterns confirm that repeat customers contribute disproportionately to revenue stability. Average purchase value trends suggest that customer maturity and engagement directly influence transaction size, supporting investment in retention and loyalty initiatives.
+
+Overall, this project demonstrates how structured analytics can move beyond descriptive reporting to support strategic decision-making. By aligning visuals with clear business questions and measurable outcomes, the dashboard framework provides management with actionable insight across revenue optimization, operational efficiency, and customer value management.
 
 
