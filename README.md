@@ -88,7 +88,7 @@ Strategic Value:
 
 Scope 2: ⚙️ Operational Performance Analysis ![revenue & Strategy dasboard](images/operational%20performance%201.1.png)
 
-🔎 Scope Objective
+  Scope Objective
 This section evaluates operational efficiency and execution performance across logistics, geography, seasonality, and payment processing.
 The focus is to answer:
 1. Where are our customers concentrated geographically?
