@@ -102,6 +102,24 @@ The focus is to answer:
 5. How does logistics configuration influence average revenue?
 
 
+1: Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
+ Business Question: Where are our customers concentrated geographically?
+
+ What the Visual Shows: A distribution of total customers across different locations.
+
+ Why It Matters
+
+- Identifies high-density markets
+
+- Helps prioritize operational resources
+
+- Supports regional marketing & distribution planning
+
+- Assists in warehouse/logistics optimization decisions
+
+Strategic Insight Angle - If 60%+ of customers are concentrated in a few locations, localized fulfillment centers could reduce shipping costs and delivery time.
+
+
 
 
 
