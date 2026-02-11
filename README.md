@@ -102,7 +102,7 @@ The focus is to answer:
 5. How does logistics configuration influence average revenue?
 
 
-1: Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
+1. Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
  Business Question: Where are our customers concentrated geographically?
 
  What the Visual Shows: A distribution of total customers across different locations.
@@ -110,15 +110,40 @@ The focus is to answer:
  Why It Matters
 
 - Identifies high-density markets
-
 - Helps prioritize operational resources
-
 - Supports regional marketing & distribution planning
-
 - Assists in warehouse/logistics optimization decisions
 
 Strategic Insight Angle - If 60%+ of customers are concentrated in a few locations, localized fulfillment centers could reduce shipping costs and delivery time.
 
+2. Shipping Type Distribution ![revenue & Strategy dasboard](images/shipping%20type%20filter%201.2.png)
+
+ Business Question - Which shipping methods are most used?
+
+ What the Visual Shows - Breakdown of shipping type (e.g., Standard, Express, Same-Day).
+ 
+ Why It Matters
+
+- Shows customer preference behavior
+- Impacts cost structure
+- Impacts delivery timelines
+- Helps forecast logistics workload
+  
+Operational Insight- If express shipping is high but average revenue is low, margins may be under pressure.
+
+ 4.Shipping Type + Average Revenue ![revenue & Strategy dasboard](images/shipping%20type%201.2.png)
+ 
+  Business Question - Does shipping type influence customer spending?
+
+  What the Visual Shows - Average purchase amount by shipping type.
+
+  Why It Matters: 
+- Identifies high-value shipping segments
+- Supports premium shipping strategy
+- Helps evaluate shipping profitability
+
+Analytical Angle - If express customers spend significantly more, premium delivery can be positioned as a value-added service.
+ 
 
 
 
