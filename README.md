@@ -67,9 +67,7 @@ Strategic Value:
 2. Highlights growth opportunities
 3. Supports category-level promotional planning
 
-
-
-3. Customer Subscription Status by count![revenue & Strategy dasboard](images/subscription%20count%201.3.png)
+  3.Customer Subscription Status by count![revenue & Strategy dasboard](images/subscription%20count%201.3.png)
 
 Business Question:
 Do subscribed customers generate more revenue than non-subscribed customers?
@@ -101,8 +99,7 @@ The focus is to answer:
 
 5. How does logistics configuration influence average revenue?
 
-
-1. Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
+  1.Customer Count by Location ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5.png) ![revenue & Strategy dasboard](images/customer%20count%20by%20location%201.5%202.png)
  Business Question: Where are our customers concentrated geographically?
 
  What the Visual Shows: A distribution of total customers across different locations.
@@ -116,7 +113,7 @@ The focus is to answer:
 
 Strategic Insight Angle - If 60%+ of customers are concentrated in a few locations, localized fulfillment centers could reduce shipping costs and delivery time.
 
-2. Shipping Type Distribution ![revenue & Strategy dasboard](images/shipping%20type%20filter%201.2.png)
+2.Shipping Type Distribution ![revenue & Strategy dasboard](images/shipping%20type%20filter%201.2.png)
 
  Business Question - Which shipping methods are most used?
 
@@ -131,7 +128,7 @@ Strategic Insight Angle - If 60%+ of customers are concentrated in a few locatio
   
 Operational Insight- If express shipping is high but average revenue is low, margins may be under pressure.
 
- 4.Shipping Type + Average Revenue ![revenue & Strategy dasboard](images/shipping%20type%201.2.png)
+ 3.Shipping Type + Average Revenue ![revenue & Strategy dasboard](images/shipping%20type%201.2.png)
  
   Business Question - Does shipping type influence customer spending?
 
